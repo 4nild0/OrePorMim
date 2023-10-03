@@ -7,6 +7,9 @@
 #SQLite DB
 /var/OrePorMim.db
 
+#VSCode Config
+/.vscode
+
 # Email spool folder
 /app/spool/*
 
