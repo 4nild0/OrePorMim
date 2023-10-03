@@ -4,6 +4,9 @@
 !app/cache/.gitkeep
 !app/logs/.gitkeep
 
+#SQLite DB
+/var/OrePorMim.db
+
 # Email spool folder
 /app/spool/*
 
